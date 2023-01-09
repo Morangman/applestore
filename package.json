@@ -28,7 +28,7 @@
         "bootstrap-vue": "^2.15.0",
         "jgrowl": "^1.4.7",
         "jquery-mobile": "^1.5.0-alpha.1",
-        "luxon": "^1.24.1",
+        "luxon": "^1.28.1",
         "modernizr": "^3.11.3",
         "select2": "^4.0.13",
         "sweetalert": "^2.1.2",
